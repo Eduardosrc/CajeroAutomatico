@@ -27,6 +27,7 @@ public class Retiro extends Datos{
             System.out.println("---------------------------------");
             System.out.println("----Retiró: S/." + retiro);
             System.out.println("---------------------------------");
+            System.out.println("");
         }else{
             System.out.println("");
             System.out.println("----------------------------------------");

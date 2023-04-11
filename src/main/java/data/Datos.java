@@ -11,6 +11,7 @@ public abstract class Datos {
         int ejec = 0;
         
         do{
+            System.out.println("");
             System.out.println("----------------------------------");
             System.out.println("--¿Qué operación desea realizar?--");
             System.out.println("----1.Consulta--------------------");
@@ -45,6 +46,7 @@ public abstract class Datos {
                 System.out.println("----------------------------------");
                 System.out.println("-----¡Gracias, vuelva pronto!-----");
                 System.out.println("----------------------------------");
+                System.out.println("");
                 ejec = 1;
             }else{
                 System.out.println("");

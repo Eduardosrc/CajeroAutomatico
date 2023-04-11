@@ -22,6 +22,7 @@ public class Deposito extends Datos{
         System.out.println("");
         System.out.println("---------------------------------");
         System.out.println("----Depositó: S/." + deposito);
-        System.out.println("---------------------------------");  
+        System.out.println("---------------------------------");
+        System.out.println("");
     }
 }
